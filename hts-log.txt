@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Mon, 19 May 2025 12:24:58 at https://point.in.ua/
+(winhttrack https://point.in.ua/ -O "/home/yehor/websites/point-arhive" -Y -%v -r3 -c10 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:24:58	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
+12:25:09	Error: 	"Forbidden" (403) at link https://accounts.google.com/gsi/client (from https://point.in.ua/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 11 links scanned, 7 files written (1228944 bytes overall) [1241468 bytes received at 112860 bytes/sec], 1813 bytes transferred using HTTP compression in 3 files, ratio 53%, 1.3 requests per connection
+(1 errors, 1 warnings, 0 messages)
